@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="player_rounded_corner_padding" value="false" />
+    <string name="network_library">HttpEngine</string>
+    <boolean name="player_move_freely" value="false" />
+    <boolean name="chat_show_stv_badges" value="true" />
+    <string name="player_default_cellular_quality">720p60</string>
+    <string name="chat_badge_size">18.5</string>
+    <boolean name="chat_system_message_emotes" value="true" />
+    <string name="chat_translate_target">en</string>
+    <boolean name="chat_raids_show" value="true" />
+    <float name="player_speed" value="1.5" />
+    <int name="chat_limit" value="600" />
+    <boolean name="player_background_audio_locked" value="true" />
+    <boolean name="player_aspect" value="true" />
+    <boolean name="chat_show_paints" value="true" />
+    <boolean name="player_audio_compressor_button" value="true" />
+    <boolean name="chat_enable_stv" value="true" />
+    <string name="chat_image_quality">4</string>
+    <boolean name="player_title" value="true" />
+    <boolean name="chat_use_webp" value="true" />
+    <boolean name="player_hide_ads" value="false" />
+    <boolean name="token_random_deviceid" value="true" />
+    <boolean name="player_speedbutton" value="true" />
+    <int name="chat_recent_limit" value="100" />
+    <boolean name="chat_show_personal_emotes" value="true" />
+    <boolean name="player_category" value="true" />
+    <string name="api_login">0</string>
+    <boolean name="player_pause" value="false" />
+    <boolean name="token_include_token_stream" value="true" />
+    <boolean name="chat_predictions_show" value="true" />
+    <boolean name="player_chatbartoggle" value="false" />
+    <boolean name="player_doubletap" value="true" />
+    <boolean name="chat_show_clearmsg" value="true" />
+    <boolean name="chat_show_usernotice" value="true" />
+    <boolean name="chat_theme_adapted_username_color" value="true" />
+    <string name="helix_client_id">ilfexgv3nnljz3isbm257gzwrzr7bi</string>
+    <boolean name="player_background_audio" value="true" />
+    <string name="token_supported_codecs">av1,h265,h264</string>
+    <string name="gql_client_id2">ue6666qo983tsx6so1t0vnawi233wa</string>
+    <boolean name="player_subtitles" value="false" />
+    <boolean name="player_minimize" value="true" />
+    <string name="chat_image_library">0</string>
+    <boolean name="sleep_timer_use_time_picker" value="false" />
+    <boolean name="key_chat_bar_visible" value="false" />
+    <boolean name="player_volumebutton" value="true" />
+    <int name="chatWidth" value="21" />
+    <string name="gql_redirect2">https://www.twitch.tv/settings/connections</string>
+    <boolean name="player_use_stream_proxy" value="false" />
+    <string name="theme">4</string>
+    <int name="settings_version" value="16" />
+    <boolean name="chat_use_ssl" value="true" />
+    <boolean name="player_chattoggle" value="true" />
+    <string name="playerForward">10000</string>
+    <boolean name="player_channel" value="true" />
+    <string name="helix_redirect">https://localhost</string>
+    <int name="landscape_chat_width" value="509" />
+    <boolean name="proxy_playback_access_token" value="false" />
+    <string name="token_playertype">site</string>
+    <boolean name="player_mode" value="false" />
+    <boolean name="player_handle_audio_becoming_noisy" value="true" />
+    <boolean name="player_disable_background_video" value="true" />
+    <boolean name="player_follow" value="false" />
+    <string name="update_check_frequency">7</string>
+    <boolean name="chat_randomcolor" value="true" />
+    <string name="chat_emote_size">29.5</string>
+    <int name="chat_size_modifier" value="100" />
+    <string name="ui_language">auto</string>
+    <string name="token_xdeviceid">twitch-web-wall-mason</string>
+    <boolean name="player_background_audio_pip_locked" value="true" />
+    <boolean name="chat_enable_bttv" value="true" />
+    <boolean name="player_gamesbutton" value="true" />
+    <string name="playerRewind">10000</string>
+    <boolean name="chat_use_websocket" value="true" />
+    <boolean name="proxy_multivariant_playlist" value="false" />
+    <boolean name="update_check_enabled" value="false" />
+    <boolean name="chat_enable_ffz" value="true" />
+    <boolean name="player_show_uptime" value="true" />
+    <boolean name="player_restart" value="true" />
+    <boolean name="token_include_token_video" value="true" />
+    <string name="update_url">https://api.github.com/repos/crackededed/xtra/releases/tags/latest</string>
+    <boolean name="player_sleep" value="false" />
+    <string name="player_defaultquality">720p60</string>
+    <boolean name="player_audio_focus" value="false" />
+    <boolean name="chat_polls_show" value="true" />
+    <string name="player_speed_list">0.25&#10;0.5&#10;0.75&#10;1.0&#10;1.25&#10;1.5&#10;1.75&#10;2.0&#10;3.0&#10;4.0&#10;8.0</string>
+    <boolean name="chat_disable" value="false" />
+    <boolean name="chat_zerowidth" value="true" />
+    <boolean name="chat_raids_auto_switch" value="true" />
+    <boolean name="sleep_timer_lock" value="false" />
+    <string name="chat_firstmsg_visibility">0</string>
+    <boolean name="update_use_browser" value="false" />
+    <string name="playerRewindV2">10</string>
+    <boolean name="player_use_videopositions" value="true" />
+    <boolean name="chat_timestamps" value="false" />
+    <boolean name="chat_points_collect" value="true" />
+    <boolean name="chat_boldnames" value="false" />
+    <boolean name="chat_points_notify" value="false" />
+    <boolean name="player_download" value="false" />
+    <boolean name="player_use_background_audio_track" value="false" />
+    <boolean name="player_viewericon" value="true" />
+    <boolean name="proxy_media_playlist" value="true" />
+    <boolean name="player_settings" value="true" />
+    <boolean name="player_keep_chat_open" value="false" />
+    <boolean name="player_menu" value="true" />
+    <string name="chat_timestamp_format">0</string>
+    <string name="token_playertype_video">channel_home_live</string>
+    <boolean name="chat_recent" value="true" />
+    <boolean name="key_chat_opened" value="true" />
+    <boolean name="player_fullscreen" value="true" />
+    <boolean name="chat_translate" value="false" />
+    <boolean name="player_viewerlist" value="false" />
+    <string name="playerForwardV2">10</string>
+    <boolean name="live_notifications_enabled" value="false" />
+    <boolean name="player_keep_screen_on_when_paused" value="false" />
+    <boolean name="player_stream_proxy" value="false" />
+    <boolean name="chat_stv_live_updates" value="true" />
+    <string name="gql_client_id_web">kimne78kx3ncx6brgo4mv6wki5h1ko</string>
+    <boolean name="validate_tokens" value="true" />
+    <boolean name="ui_draw_behind_cutouts" value="true" />
+    <boolean name="chat_show_clearchat" value="true" />
+    <boolean name="player_seeklive" value="false" />
+    <string name="chat_text_size">14</string>
+    <boolean name="player_use_custom_proxy" value="true" />
+    <boolean name="player_picture_in_picture" value="false" />
+    <boolean name="animatedGifEmotes" value="true" />
+    <boolean name="player_background_audio_pip_closed" value="false" />
+    <boolean name="player_audio_compressor" value="true" />
+    <boolean name="chat_pubsub_enabled" value="true" />
+</map>
